@@ -1,18 +1,19 @@
-#Greenfoot project file
-editor.fx.0.height=0
-editor.fx.0.width=0
+#Greenfoot properties
+#Wed May 12 11:55:18 EDT 2021
 editor.fx.0.x=0
-editor.fx.0.y=0
-mainWindow.height=358
-mainWindow.width=713
-mainWindow.x=391
-mainWindow.y=213
-package.numDependencies=0
-package.numTargets=0
-project.charset=UTF-8
-readme.height=58
-readme.name=@README
 readme.width=47
-readme.x=10
-readme.y=10
+mainWindow.width=713
+readme.height=58
+editor.fx.0.height=0
+package.numDependencies=0
 version=3.0.0
+readme.y=10
+project.charset=UTF-8
+readme.x=10
+mainWindow.y=213
+package.numTargets=0
+editor.fx.0.width=0
+mainWindow.x=391
+readme.name=@README
+mainWindow.height=358
+editor.fx.0.y=0
